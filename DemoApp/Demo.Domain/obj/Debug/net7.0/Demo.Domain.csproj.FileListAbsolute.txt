@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\bin\Debug\net7.0\Demo.Domain.deps.json
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\bin\Debug\net7.0\Demo.Domain.runtimeconfig.json
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\bin\Debug\net7.0\Demo.Domain.dll
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\bin\Debug\net7.0\Demo.Domain.pdb
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.dll
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\refint\Demo.Domain.dll
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.pdb
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\Demo.Domain.genruntimeconfig.cache
+C:\Users\HP\Desktop\Do\Fragrance-API\DemoApp\Demo.Domain\obj\Debug\net7.0\ref\Demo.Domain.dll

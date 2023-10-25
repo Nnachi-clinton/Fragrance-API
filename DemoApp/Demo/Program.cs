@@ -1,3 +1,5 @@
+using Demo.Core.Services.Contract;
+using Demo.Core.Services.Implementation;
 using Demo.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +14,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<MyDbContext>(options=>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConn")));
+
+builder.Services.AddScoped<IFragranceServices, FragranceServices>();
 
 var app = builder.Build();
 
